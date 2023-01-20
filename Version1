@@ -1,0 +1,61 @@
+<main id="main-doc">
+
+<link rel="stylesheet" href="styles.css">
+
+<section class="main-section" id="This_is_the_documentation_for_the_website.">
+  <header id="This is the documentation for the website.">This is the documentation for the website.</header>
+  <p>This exaplains the links from the main webpage.</p>
+  <p></p>
+  <code></code>
+  <li></li>
+  <nav id="navbar">
+    <header>Hello1</header>
+  <a class="nav-link" id="This_is_the_documentation_for_the_website." href="#This_is_the_documentation_for_the_website.">This is the documentation for the website.</a>
+  </nav>
+</section>
+
+<section class="main-section" id="Hello2">
+  <header id="Hello2">Hello2</header>
+  <p></p>
+  <p></p>
+  <code></code>
+  <nav id="navbar">
+  <a class="nav-link" id="Hello2" href="#Hello2">Hello2</a>
+  <li></li>
+  </nav>
+</section>
+
+<section class="main-section" id="Hello3">
+  <header id="Hello3">Hello3</header>
+  <p></p>
+  <p></p>
+  <code></code>
+  <li></li>
+  <nav id="navbar">
+  <a class="nav-link" id="Hello3" href="#Hello3">Hello3</a>
+  <li></li>
+  </nav>
+</section>
+
+<section class="main-section" id="Hello4">
+  <header id="Hello4">Hello4</header>
+  <p></p>
+  <p></p>
+  <code></code>
+  <nav id="navbar">
+  <a class="nav-link" id="Hello4" href="#Hello4">Hello4</a>
+  <li></li>
+  </nav>
+</section>
+
+<section class="main-section" id="Hello5">
+  <header id="Hello5">Hello5</header>
+  <p></p>
+  <p></p>
+  <code></code>
+  <nav id="navbar">
+  <a class="nav-link" id="Hello5" href="#Hello5">Hello5</a>
+  <li></li>
+</section>
+</nav>
+</main>
